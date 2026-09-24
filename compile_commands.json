@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-fPIC",
+      "-Iv1",
+      "-o",
+      "v1/libcalc.so",
+      "calc.cpp"
+    ],
+    "directory": "/home/kr326ubuntu/projects/concepts/abi_compatibility_demo",
+    "file": "/home/kr326ubuntu/projects/concepts/abi_compatibility_demo/calc.cpp",
+    "output": "/home/kr326ubuntu/projects/concepts/abi_compatibility_demo/v1/libcalc.so"
+  }
+]
